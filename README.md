@@ -1,1 +1,1 @@
- Pricing UI landing page built using React and Chakra UI.
+ Pricing UI landing page built using React and Chakra UI
